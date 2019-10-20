@@ -37,6 +37,6 @@ as shortcut to succeed in coding interviews.
 <!--Often when people start preparing for ds algorithm interview questions : 
 * They end up reading book (e.g. Introduction to Algorithms etc) -->
 
-## Who should join this course ?
+## Who should one join this course ?
 This course is for college students and working professional who wants to crack any ds algorithm 
 coding interview.
