@@ -1,0 +1,54 @@
+title: Interview Preparation to get job in top Software Companies.
+description: > # this means to ignore newlines until "baseurl:"
+  Data Structures and Algorithm Interview Preparation for Students and IT Professionals, to get job in top Software
+  Companies.
+permalink: ':title/'
+# baseurl: "/InterviewPrep" # the subpath of your site, e.g. /blog
+url: "https://dsalgorithm.com" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: https://twitter.com/DsalgorithmC
+
+# register on google analytics and replace this token
+google_analytics: UA-139438802-2
+
+# Author Settings
+author: Ekta Sharma # add your name
+author-img: Matrix.jpg
+about-author: We help people getting their dream Jobs in top software companies # add descriptions
+social-twitter: DsalgorithmC
+social-facebook: # add your Facebook handle
+social-github:  # add your Github handle
+social-linkedin:
+social-email: ekta@dsalgorithm.com
+stackoverflow_username:
+
+twitter:
+  username: DsalgorithmC
+  card: Helping people to get their dream Jobs in top software companies.
+
+social:
+  name: Ekta Sharma
+  links:
+    - https://twitter.com/DsalgorithmC
+    - https://github.com/dsalgorithm
+
+logo: /assets/img/Matrix.jpg
+google_site_verification:
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
